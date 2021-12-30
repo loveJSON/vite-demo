@@ -32,7 +32,7 @@ export default defineComponent({
 		// }
 
 		return {
-			dataProps:props.titleProps || "hello"
+			dataProps:_data
 		};
 	}
 })
